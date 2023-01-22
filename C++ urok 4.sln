@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "C++ urok 4", "C++ urok 4.vcxproj", "{A6517BC6-9BA1-4253-9332-66AF624C7807}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Debug|x64.ActiveCfg = Debug|x64
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Debug|x64.Build.0 = Debug|x64
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Debug|x86.ActiveCfg = Debug|Win32
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Debug|x86.Build.0 = Debug|Win32
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Release|x64.ActiveCfg = Release|x64
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Release|x64.Build.0 = Release|x64
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Release|x86.ActiveCfg = Release|Win32
+		{A6517BC6-9BA1-4253-9332-66AF624C7807}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64B8E8B2-0EFA-4CAF-87E1-20FA3CD576E6}
+	EndGlobalSection
+EndGlobal
